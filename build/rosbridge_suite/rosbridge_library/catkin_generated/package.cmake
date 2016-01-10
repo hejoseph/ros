@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rosbridge_library")
+set(rosbridge_library_MAINTAINER "Russell Toris <rctoris@wpi.edu>, Jihoon Lee <jihoonlee.in@gmail.com>")
+set(rosbridge_library_DEPRECATED "")
+set(rosbridge_library_VERSION "0.7.13")
+set(rosbridge_library_BUILD_DEPENDS "rospy" "std_msgs" "python-imaging" "geometry_msgs" "message_generation" "python-bson")
+set(rosbridge_library_RUN_DEPENDS "rospy" "roscpp" "rosgraph" "rosservice" "rostopic" "std_msgs" "python-imaging" "geometry_msgs" "message_runtime" "python-bson")
+set(rosbridge_library_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/devel
+
+Name: foobar
+Description: Description of foobar
+Version: 1.2.4
+Cflags: 
+Libs: -L/home/joseph/workspace_catkin/devel/lib 
+Requires: 

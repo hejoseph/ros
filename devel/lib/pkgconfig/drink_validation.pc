@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/devel
+
+Name: drink_validation
+Description: Description of drink_validation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/joseph/workspace_catkin/devel/lib 
+Requires: 

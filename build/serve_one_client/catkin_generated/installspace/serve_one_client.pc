@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/install
+
+Name: serve_one_client
+Description: Description of serve_one_client
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/joseph/workspace_catkin/install/lib 
+Requires: 

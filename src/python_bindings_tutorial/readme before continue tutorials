@@ -1,0 +1,3 @@
+let python-cpp code interchangeable
+
+As stated, a Python call to rospy.init_node does not initialize roscpp. If roscpp is not initialized, instanciating ros::NodeHandle will lead to a fatal error. A solution for this is provided by the moveit_ros_planning_interface. In any Python script that uses the wrapped class, two lines need to be added before instanciating AddTwoInts:

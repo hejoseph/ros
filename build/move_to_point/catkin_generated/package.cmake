@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "move_to_point")
+set(move_to_point_MAINTAINER "joseph <joseph@todo.todo>")
+set(move_to_point_DEPRECATED "")
+set(move_to_point_VERSION "0.0.0")
+set(move_to_point_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "actionlib" "move_base_msgs")
+set(move_to_point_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "actionlib" "move_base_msgs")
+set(move_to_point_BUILDTOOL_DEPENDS "catkin")

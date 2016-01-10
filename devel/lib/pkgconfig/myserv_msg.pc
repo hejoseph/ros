@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/devel
+
+Name: myserv_msg
+Description: Description of myserv_msg
+Version: 0.0.0
+Cflags: -I/home/joseph/workspace_catkin/devel/include
+Libs: -L/home/joseph/workspace_catkin/devel/lib 
+Requires: message_runtime

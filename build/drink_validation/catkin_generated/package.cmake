@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "drink_validation")
+set(drink_validation_MAINTAINER "joseph <joseph@todo.todo>")
+set(drink_validation_DEPRECATED "")
+set(drink_validation_VERSION "0.0.0")
+set(drink_validation_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(drink_validation_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(drink_validation_BUILDTOOL_DEPENDS "catkin")

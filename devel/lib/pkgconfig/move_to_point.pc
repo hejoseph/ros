@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/devel
+
+Name: move_to_point
+Description: Description of move_to_point
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/joseph/workspace_catkin/devel/lib 
+Requires: 

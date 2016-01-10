@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/install
+
+Name: node_example
+Description: Description of node_example
+Version: 0.0.1
+Cflags: -I/home/joseph/workspace_catkin/install/include
+Libs: -L/home/joseph/workspace_catkin/install/lib 
+Requires: dynamic_reconfigure message_runtime roscpp std_msgs

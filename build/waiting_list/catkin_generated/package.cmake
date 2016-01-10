@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "waiting_list")
+set(waiting_list_MAINTAINER "joseph <joseph@todo.todo>")
+set(waiting_list_DEPRECATED "")
+set(waiting_list_VERSION "0.0.0")
+set(waiting_list_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "custom_data")
+set(waiting_list_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime" "custom_data")
+set(waiting_list_BUILDTOOL_DEPENDS "catkin")

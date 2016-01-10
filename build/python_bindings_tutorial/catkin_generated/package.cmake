@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "python_bindings_tutorial")
+set(python_bindings_tutorial_MAINTAINER "joseph <joseph@todo.todo>")
+set(python_bindings_tutorial_DEPRECATED "")
+set(python_bindings_tutorial_VERSION "0.0.0")
+set(python_bindings_tutorial_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(python_bindings_tutorial_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(python_bindings_tutorial_BUILDTOOL_DEPENDS "catkin")

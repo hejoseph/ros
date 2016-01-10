@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/install
+
+Name: python_bindings_tutorial
+Description: Description of python_bindings_tutorial
+Version: 0.0.0
+Cflags: -I/home/joseph/workspace_catkin/install/include
+Libs: -L/home/joseph/workspace_catkin/install/lib -ladd_two_ints -l_add_two_ints_wrapper_cpp
+Requires: roscpp

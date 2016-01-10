@@ -1,0 +1,2 @@
+custom_data:drink_validation:learning_actionlib:move_to_point:myserv_msg:node_example:python_bindings_tutorial:robot_state:rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite:serve_clients:serve_one_client:simple_navigation_goals:turtlesim_cleaner:waiting_list
+-DCATKIN_WHITELIST_PACKAGES=waiting_list -DCATKIN_DEVEL_PREFIX=/home/joseph/workspace_catkin/devel -DCMAKE_INSTALL_PREFIX=/home/joseph/workspace_catkin/install -G Unix Makefiles

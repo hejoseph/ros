@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "myserv_msg")
+set(myserv_msg_MAINTAINER "joseph <joseph@todo.todo>")
+set(myserv_msg_DEPRECATED "")
+set(myserv_msg_VERSION "0.0.0")
+set(myserv_msg_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(myserv_msg_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(myserv_msg_BUILDTOOL_DEPENDS "catkin")

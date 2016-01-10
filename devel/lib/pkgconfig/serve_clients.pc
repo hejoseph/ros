@@ -1,0 +1,8 @@
+prefix=/home/joseph/workspace_catkin/devel
+
+Name: serve_clients
+Description: Description of serve_clients
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/joseph/workspace_catkin/devel/lib 
+Requires: 
